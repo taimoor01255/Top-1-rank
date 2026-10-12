@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TOP 1 RANK FOR $1</title>
+<style>
+body{background:black;color:white;font-family:Arial;text-align:center;padding:20px;margin:0}
+.box{max-width:400px;margin:auto;background:#111;padding:20px;border-radius:15px;border:2px solid #a3ff12}
+.big{font-size:18px;color:#F3BA2F;word-break:break-all;background:#222;padding:12px;border-radius:10px;margin:10px 0}
+h1{color:#a3ff12}
+button{width:100%;padding:15px;background:#25D366;color:white;font-weight:bold;border:0;border-radius:10px;font-size:18px;margin-top:10px}
+</style>
+</head>
+<body>
+
+<h1>TOP 1 RANK FOR $1</h1>
+<p>Google #1 in 7 Days</p>
+
+<div class="box">
+
+<h2 style="color:#F3BA2F">BINANCE USDT ADDRESS (ERC20)</h2>
+<div class="big">
+0x0acc9d78659a7b3c7b1c492f961ee7b2f00cd835
+</div>
+<p style="color:red;font-size:13px">Network: ERC20 hi select karna</p>
+
+<hr style="border:0.5px solid #333;margin:20px 0">
+
+<h2 style="color:#25D366">WHATSAPP NUMBER</h2>
+<div class="big" style="color:#25D366;font-size:22px">
+0300-XXXXXXX
+</div>
+<p>Payment ke baad yahan screenshot bhejo</p>
+
+<button>WHATSAPP PE MESSAGE KARO</button>03354736149
+
+</div>
+
+</body>
+</html>
